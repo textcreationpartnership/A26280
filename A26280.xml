@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of what has passed in the treaty between the old and new East-India Companies towards an agreement</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26280</idno>
+            <idno type="STC">Wing A430</idno>
+            <idno type="STC">ESTC R4728</idno>
+            <idno type="EEBO-CITATION">13682430</idno>
+            <idno type="OCLC">ocm 13682430</idno>
+            <idno type="VID">101310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 830:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of what has passed in the treaty between the old and new East-India Companies towards an agreement</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and probable place of publication from NUC pre-1956.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101310:1" rendition="simple:additions"/>
+            <head>An Account of what has paſſed in the Treaty between the <hi>Old</hi> and <hi>New Eaſt-India Companies,</hi> towards an Agreement.</head>
+            <p>UPon the Motion of Mr. <hi>Papillon</hi> a Treaty was ſet on foot, and ſeveral Meſſages paſſed between both Companies.</p>
+            <p>The Old Company Reſolved, <hi>That they are willing to Joyn in a Coalition with the Subſcribers to the Two Millions, Provided it can be done of Safe, Juſt, and Reaſonable Terms.</hi>
+            </p>
+            <p>The New Company Reſolved, <hi>That they incline to an Agreement with the Governor and Com<g ref="char:EOLhyphen"/>pany of Merchants of</hi> London <hi>Trading into the</hi> Eaſt-Indies, <hi>upon Safe, Juſt, and Reaſonable Terms.</hi>
+            </p>
+            <p>Each Company choſe a Committee of Seven to Manage the Treaty; and whilſt it was depending, the Old Company thought fit to Petition the Honourable Houſe of Commons; Which for that time broke off the Treaty.</p>
+            <p>Upon their Petition a Bill was brought in, and upon the firſt Reading Rejected.<note place="margin">1698. <hi>Mar.</hi> 9. Ditto 10.</note>
+            </p>
+            <p>However, the New Company the next day ſent a Meſſage to the Old Company, to ac<g ref="char:EOLhyphen"/>quaint them with the Names of their Committee of Seven, and that they were Empower'd, and would be ready to Treat with the like Number of the Members of their Company, as ſoon as they pleaſed to appoint, in order to an Agreement.</p>
+            <p>To which the Old Company returned Anſwer, That they would the beginning of next week call their Grand Committee, and lay before them the ſaid Meſſage.</p>
+            <p>The Old Company ſent a Meſſage to the New Company,<note place="margin">Ditto 21.</note> to acquaint them with the Names of their Committee of Seven, and that they were Authorized and Empowered, and would be ready to Treat with the like Number of their Company; and, that the ſaid Seven Perſons would meet them at <hi>Skinners-Hall</hi> on <hi>Thurſday</hi> morning next, at 9 a Clock, to enter upon the ſaid Treaty; if they ſhall think fit.</p>
+            <p>The Two Committees of Seven met according to the ſaid Appointment,<note place="margin">Ditto
+23.</note> and the Powers from each Company being Exchanged, they mutually agreed, That all the Tranſactions upon the Treaty be Exchanged in Writing.</p>
+            <p>And the Two following Heads were agreed to be Treated on, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>How, and upon what Terms the</hi> 315000 l. <hi>ſubſcribed by Mr.</hi> John Du Boys, <hi>ſhall be joyned and admitted into the Joynt Stock of</hi> The Engliſh Company Trading to the Eaſt-Indies.</item>
+               <item>2. <hi>What Valuation ſhall be ſet upon the Dead Stock of the Governor and Company of Merchants of</hi> London <hi>Trading into the</hi> Eaſt Indies, <hi>and how the Value thereof ſhall be ſatisfied.</hi>
+               </item>
+            </list>
+            <p>The Two Committes met again,<note place="margin">Apr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and the Committee of the New Company deliver'd Two Reſolutions of their Grand Committee upon the Two, Heads agreed to be Treated on, which were as follows, <hi>viz.</hi>
+            </p>
+            <p>Reſolved, (on the Firſt Head) <hi>That the</hi> 315000 <hi>l. ſubſcribed by Mr.</hi> John Du Boys, <hi>may be joined and admitted into the Joynt Stock of</hi> The Engliſh Company Trading to the Eaſt-Indies, <hi>as Effectually to all Intents and Purpoſes, as if it had been Originally ſubſcribed into the ſame.</hi>
+            </p>
+            <p>Reſolved, (on the Second Head) <hi>That this Company is willing to come to an Agreement for the Old Companies Dead Stock, and rather to exceed then leſſen the true Value, in order, to which they deſire to have ſuch a Particular as may enable them to make a Judgment thereof, and being ſetled, they will pay and ſatisfie for the ſame as ſhall be agreed.</hi>
+            </p>
+            <p>At the ſame time the Committee of the Old Company delivered 3 Papers <hi>viz.</hi>
+            </p>
+            <p>1. One Paper containing Two Propoſals of their Grand Committee on the firſt Head, as follows, <hi>viz.</hi>
+               <list>
+                  <item>Firſt Propoſal. <hi>That a Sum of Money be agreed on and adjuſted by both Companies, which ſhall be the General United Joint Stock for carrying on the Trade to</hi> India, <hi>and by what Purts and in what Method the ſame ſhall be paid and advanced.</hi>
+                  </item>
+                  <item>Second Propoſal. <hi>That the Share and Proportion of the Old Company in ſuch United Joint Stock be as</hi> 315000 l. <hi>ſhall bear in proportion to the Sum to be aſcertained and agreed on as an annual Neceſſary Export to</hi> India.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:101310:2"/>
+2. A Second Paper, containing a Propoſal on the 2d Head, as follows, <hi>viz. That the dead Stock of this Company in</hi> India, <hi>and elſewhere beyond the Seas, conſiſting of ſeveral Poſſeſſions, Priviledges, and Revenues, be Valued at Three hundred and Fifty thouſand Pounds, and to be paid for the ſaid dead Stock to content.</hi>
+            </p>
+            <p>3. A Third Paper importing, That the dead Stock of the <hi>Eaſt-India</hi> Company in
+<hi>India,</hi> and elſewhere beyond the Seas, conſiſts principally in the 3 following particulars.
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Poſſeſſions, as Forts, Factories, Buildings, and Lands of Inheritance.</item>
+                  <item>
+                     <hi>Secondly,</hi> Divers Priviledges, Grants, and Immunities, in the ſeveral Places of their Reſi<g ref="char:EOLhyphen"/>dence and Settlements.</item>
+                  <item>
+                     <hi>Thirdly,</hi> Several Revenues.</item>
+               </list>
+            </p>
+            <p>Under the firſt Head are enumerated the Iſlands of St. <hi>Helena</hi> and <hi>Bombay, Bombay</hi> Caſtle, and ſeveral Factories under that Preſidency. On the Coaſt of
+<hi>Mallabar, Carwarr, Telli<g ref="char:EOLhyphen"/>cherry</hi> and <hi>Anjengo</hi> Forts, and <hi>Callicut</hi> Factory; In <hi>Perſia</hi> three Factories, under the Preſiden<g ref="char:EOLhyphen"/>cy of Fort St. <hi>George;</hi> Fort St.
+<hi>George,</hi> Fort St. <hi>Davids</hi> and <hi>Vizagapatam</hi> Forts, and ſeveral Factories; On the Iſland of <hi>Sumatra; Bencoolen,</hi> a Fort with Two Factories; In <hi>Cochinchina</hi> One Factory, under the Agency of <hi>Bengall; Chuttanuttee,</hi> a ſtrong Fortification, Three Facto<g ref="char:EOLhyphen"/>ries, which ſome Houſes and Ware-houſes.</p>
+            <p>Under the Second Head, they ſay that the Company have by Grants, Phirmands, and mutual Stipulations, obtained very great Priviledges and Immunities in moſt parts of <hi>India,</hi> not only beyond any other Nations Trading thither, but even beyond the Natives themſelves.</p>
+            <p>On all the Coaſts of <hi>Coromandell, Chingee, Orixa, Sumatra, Mallabar,</hi> and in
+<hi>Perſia</hi> they are Cuſtom-free.</p>
+            <p>In <hi>Bengall</hi> they pay only 3000 Rupees yearly, inſtead of 5 <hi>per Cent.</hi> paid by others.</p>
+            <p>Under the Third Head is mentioned Revenues, which are ſaid to ariſe from Cuſtoms, Rents, Quit-rents and Ground-rents, Farms and other Incomes in <hi>Perſia;</hi> Fort St. <hi>George, Bombay,</hi> Fort St. <hi>Davids,</hi> St. <hi>Helena, York</hi> Fort at <hi>Bencoolen,</hi> and other places, amounting unto upwards of Forty thouſand Pounds a year, without any part thereof raiſed on the Trade of the Company.</p>
+            <p>The Two Committees met,<note place="margin">April.</note> and the Committee of the New Company delivered the anſwer, of their Grand Committee to the Old Companies Propoſals, received the 3d of <hi>April.</hi>
+            </p>
+            <p>
+               <hi>Anſwer to the Firſt Propoſal in the firſt Paper.</hi>
+            </p>
+            <p>It is not poſſible to determine what Sum of Money the Trade may take up, the ſame being capable of Enlargement to a great degree, and therefore no certain Stock can be adjuſted.</p>
+            <p>
+               <hi>Anſwer to the Second Propoſal in the ſaid Firſt Paper.</hi>
+            </p>
+            <p>The Trade having by Act of Parliament been ſettled upon the Loan of Two Millions, whoever came in at firſt, or ſhall hereafter be admitted into the Joint Stock, ought not to ex<g ref="char:EOLhyphen"/>pect any greater Share of the Trade than their Proportion in the ſaid Two Millions.</p>
+            <p>But if the Old Company deſire a greater Proportion in the Two Millions than the Origi<g ref="char:EOLhyphen"/>nal Subſcription of Mr. <hi>Duboys,</hi> in order to Gratifie them therein: This Committee will do their utmoſt to procure for them ſuch an addition to the 315000 <hi>l.</hi> upon the terms of the Act of Parliament, as will Intitle them to ſuch a part of the Trade as they ſhall reaſonably deſire.</p>
+            <p>
+               <hi>Anſwer to the Propoſal in the ſecond Paper, and to the third Paper, con<g ref="char:EOLhyphen"/>cerning their Dead Stock.</hi>
+            </p>
+            <p>This Committee deſired to be informed
+<list>
+                  <item>1. What they value each Fort and Factory at.</item>
+                  <item>2. What their particular Priviledges, Grants and Immunities are, and what value they put upon them.</item>
+                  <item>3. Where particularly and from what the Revenues do ariſe.</item>
+               </list>
+            </p>
+            <p>And having received ſuch an Account, this Committee will be enabled to give a direct Anſwer to the ſaid Propoſal.</p>
+            <p>The two Committees of Seven met at the old <hi>Eaſt-India-Houſe,</hi>
+               <note place="margin">
+                  <hi>Apr.</hi> 28.</note> and the Committee of Seven of the old Company delivered the Anſwer of their Grand Committee, to the laſt Pa<g ref="char:EOLhyphen"/>per deliver'd by the New Company, as follows,
+<hi>viz.</hi>
+            </p>
+            <p>
+               <hi>On the firſt Head</hi>
+            </p>
+            <p n="1">1. That it is not impoſſible to determine what ſhall be the Joint Stock to carry on the Trade to <hi>India,</hi> for that if the Trade be capable of being hereafter enlarged, the Joint Stock may alſo at any time be enlarged for carrying on the Trade to the full.</p>
+            <p>And they are of Opinion, and do inſiſt upon it, that ſuch Joint Stock ought in the firſt place to be adjuſted, for that in the very nature and conſtant practice of Joint Stocks, a certain Sum ought to be, and always has been declared, of how much that Joint Stock ſhall conſiſt.</p>
+            <pb n="3" facs="tcp:101310:2"/>
+            <p n="2">2. They do admit, that by the Act, every Subſcriber may Trade yearly to the Amount of his Subſcription, and therefore this Company may Trade for 315000 <hi>l. per Ann.</hi> by vir<g ref="char:EOLhyphen"/>tue of the Subſcription of Mr. <hi>Duboys,</hi> and the other Subſcribers may alſo yearly Trade (if they think fit) for the remaining 1685000 <hi>l.</hi>
+            </p>
+            <p>But this Committee cannot apprehend, how the Committee of the new Company could infer from their Paper dated the 27th of <hi>March</hi> laſt, That this Company did thereby deſire to Trade for more yearly, than by Law they are empowred to do.</p>
+            <p>
+               <hi>Anſwer on the Second Head.</hi>
+            </p>
+            <p>That Conſidering the Particulars already given in of their Forts, Caſtles, Settlements, Priviledges, Immunities and Revenues, and the Reaſonable Value put upon them, the better to encline the New Company chearfully to come to an Agreement with this Company; They cannot but be of Opinion the ſame are ſufficient to induce the New Company to come up to the Terms of their ſaid Propoſition; But if an Agreement in the other Parti<g ref="char:EOLhyphen"/>culars ſhall ſucceed, this Committee do not doubt to give ſuch further Satisfaction herein as may be reaſonable.</p>
+            <p>The Two Committees of Seven met,<note place="margin">
+                  <hi>May</hi> 18.</note> and the Committee of Seven of the New Com<g ref="char:EOLhyphen"/>pany deliver'd the following Anſwer of their Grand Committee to the laſt Paper received from the Old Company, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>On the Firſt Head.</hi>
+            </p>
+            <p>The Old Company ſeem not rightly to diſtinguiſh and apply the Terms of their Propo<g ref="char:EOLhyphen"/>ſals,
+<hi>viz. A General united Joynt Stock,</hi> and <hi>An Annual Neceſſary Export to India;</hi> Wherefore this Committee for Explanation ſay, That <hi>a General united Joynt Stock</hi> is one thing, and <hi>The Annual neceſſary Export to India</hi> is another; and tho it is poſſible to adjuſt and agree a General united Joynt Stock, yet it is not poſſible to determine how much of that Stock will of neceſſi<g ref="char:EOLhyphen"/>ty be annually employed in Trade.</p>
+            <p>The General united Stock of this Company at preſent is 1663000 <hi>l.</hi> being the Sum which the ſeveral Members of this Corporation are intituled to Trade for: and if the 315000 <hi>l.</hi> ſubſcribed by Mr. <hi>Du Boys</hi> be admitted into the Joynt Stock, the ſame will be encreaſed to the Sum of 1978000 <hi>l.</hi> to be called in at ſuch Times, and in ſuch Proportions, as the Ocea<g ref="char:EOLhyphen"/>ſions of the Trade ſhall require.</p>
+            <p>
+               <hi>Anſwer on the Second Head.</hi>
+            </p>
+            <p>The Paper which the Old Company have deliver'd in as Particulars of their Dead Stock, containining only</p>
+            <p>The Names of the Iſlands of which they ſay they are abſolute Lords Proprietors.</p>
+            <p>The Names of ſeveral Forts, Caſtles, and Factories, with the Places where they are ſi<g ref="char:EOLhyphen"/>tuated.</p>
+            <p>Priviledges and grants in groſs, without mentioning what they are</p>
+            <p>Revenues, without expreſſing where and from whence they do ariſe.</p>
+            <p>This Committee are not thereby enabled to Judge of their Value, for ſuch Generals can<g ref="char:EOLhyphen"/>not be thought ſufficient, on which to Purchaſe any Eſtate, much leſs an Eſtate at ſuch a diſtance, and for which ſo great a Sum as 350000 <hi>l.</hi> is demanded.</p>
+            <p>The New Company receiving no Anſwer to their laſt Paper in near Two months,<note place="margin">
+                  <hi>July</hi> 14.</note> they ſent a Meſſage to the Old Company to put them in mind of the ſaid Paper, and to deſire their Anſwer thereunto.</p>
+            <p>The Old Company ſent the following Paper (agreed by their Grand Committee) to the New Company.<note place="margin">
+                  <hi>Ditto,</hi> 20.</note>
+            </p>
+            <p>
+               <hi>This Committee having weighed the ſeveral Propoſals received from the Committee of the New Company, they judged it neceſſary to lay the ſame before a General Court for their further Direction; who upon Conſideration had of the whole Proceedings between the Committees of both Companies, were of Opinion, That the Propoſals and Replies made by the Committee of the New Company, did not ſhew a diſpoſition to unite the Intereſt of both Companies for Carrying on the Trade to</hi> India <hi>upon Juſt and Reaſonable Terms, but that the ſame did rather tend to Deprive this Company of that Legal Right they have in the ſaid Trade.</hi>
+            </p>
+            <p>
+               <hi>Yet, nevertheleſs, To manifeſt their Inclination to unite both Companies for the better Carrying on the Trade, and Preſerving the ſame to this Kingdom, they did Empower this Committee, as alſo the Committee of Seven, to continue to Treat with the New Company, purſuant to the Reſo<g ref="char:EOLhyphen"/>lution of a General Court of this Company of the</hi> 13th <hi>of</hi> January
+<hi>laſt,</hi> viz.</p>
+            <p>That this Company is willing to join in a coalition with the Subſcribers to the Two Mil<g ref="char:EOLhyphen"/>lions, provided it can be done, on ſafe, juſt, and reaſonable Terms.</p>
+            <p>Purſuant to which Powers of the General Court aforementioned, the Committee of Seven will be ready to meet the Committee of Seven of the new Company, when and where they pleaſe to appoint,</p>
+            <pb n="4" facs="tcp:101310:3"/>
+            <p>The two Committees met,<note place="margin">
+                  <hi>Ditto,</hi> 28.</note> and the Committee of the new Company deliver'd the Anſwer of their Grand Committee, to the old Company's laſt Paper as follows, <hi>viz.</hi>
+            </p>
+            <p>THis Committee expecting to receive an Anſwer to their Paper, dated the 11th of <hi>May</hi> laſt, are ſurprized to find by the aboveſaid Paper, That the old Company are of Opinion, that the Propoſals and Replies made by this Company, do not ſhew a Diſpoſition to unite the Intereſt of both Companies upon juſt and reaſonable Terms, but rather tend to deprive the old Company, of the legal Right they have in the ſaid Trade.</p>
+            <p>Whereas this Committee, have by their Propoſal in their Paper dated the 24th of <hi>March</hi> laſt, offered; That the 315000 <hi>l.</hi> ſubſcribed by Mr. <hi>Duboys,</hi> may be joined and admitted into this Companies Joint Stock, as effectually to all Intents and Purpoſes, as if it had been originally ſubſcribed into the ſame. And moreover to the end the old Company might (if they pleaſed) have a larger Share in the Trade, this Committee did in their Paper of the 6th of <hi>April,</hi> offer to do their utmoſt to procure for them ſuch an Addition to the ſaid 315000 <hi>l.</hi> (upon the Terms of the Act of Parliament) as might entitle them to ſuch a further part of the Trade, as they ſhould reaſonably deſire.</p>
+            <p>And this Committee did alſo by their ſaid Paper of the 24th of <hi>March,</hi> and other Papers, manifeſt their Inclination to make a reaſonable offer for their dead Stock, ſo ſoon as they ſhould receive ſuch a particular thereof, as might enable them to judge of their value, but the old Company by their Paper of the 26th of <hi>April</hi> did decline to treat further upon that Head, until an Agreement ſhould ſucceed on the other Head, relating to their proportion in the Trade.</p>
+            <p>All which conſidered, this Committee cannot but be of opinion that they have ſhown themſelves ready to treat and agree on Terms both juſt and reaſonable, and they are ſtill very willing to Unite on ſuch Terms, which they judge will equally preſerve the legal Rights of both Companies.</p>
+            <p>The Two Committees of Seven met,<note place="margin">
+                  <hi>Dec.</hi> 22.</note> but the Committee of the Old Company delivered no anſwer to the New Company's laſt Paper.</p>
+            <p>The New Company have heard nothing further from the Old Company till their Petition came into the Houſe of Commons.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
